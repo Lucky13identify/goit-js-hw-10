@@ -2,7 +2,7 @@ import Notiflix from 'notiflix';
 
 export function fetchCountries(name) {
   let count = 0;
-  console.log(count);
+
   let svgFlag = '';
   let nameCountry = '';
   let capital = '';

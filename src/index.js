@@ -20,5 +20,4 @@ input.addEventListener('keydown', resetContainer);
 function resetContainer() {
   info.innerHTML = '';
   list.innerHTML = '';
-  count = 0;
 }
